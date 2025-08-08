@@ -1,5 +1,5 @@
 ---
-permalink: shreeyasharda.github.io
+permalink: 
 title: "Welcome to Shreeya's Academic Website"
 author_profile: true
 redirect_from: 
