@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! I created this site to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills! 
+Thanks for visiting my website! I created this site to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills!! 
 
 
 About Me!
