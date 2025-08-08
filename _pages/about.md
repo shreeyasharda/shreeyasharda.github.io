@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! My goal is to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills!! 
+Thanks for visiting my website! My goal is to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills.
 
 
 About Me
@@ -16,7 +16,7 @@ I am currently a Master's student at The George Washington University, studying 
 
 Goals
 ======
-Using this foundation, my short term goal is to find a data science intership for Summer 2026 and pursue a PhD in CS in Fall 2026 ( I will apply for the PhD in Fall 2026, upon completion of my Masters). My long term goal is to become a Professor and mentor young minds! 
+Using this foundation, my short term goal is to find a data science intership for Summer 2026 and pursue a PhD in CS in Fall 2026 ( I will apply for the PhD in Fall 2026, upon completion of my Masters). My long term goal is to become a Professor and mentor young minds! I want to dedicate my life to conducting high-impact research and traveling around the world to give talks. 
 
 Research Interests 
 ======
