@@ -18,7 +18,7 @@ Goals
 ======
 Using this foundation, my short term goal is to find a data science intership for Summer 2026 pursue a PhD in CS in Fall 2026 ( I will apply for the PhD in Fall 2026, upon completion of my Masters). My long term goal is to become a Professor and mentor young minds! 
 
-Skills
+Technical Skills
 ======
 core skills: data visualization (using Tableau, matplotlib, seaborn), data science/machine learning (using scikit-learn, tensorFlow, openCV, pyTorch, textBlob, SQL), python programming
 
