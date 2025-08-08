@@ -49,7 +49,7 @@ Soft Skills (Strengths vs Weaknesses)
 ======
 **Strengths**
 1. Curious (I am always looking to advance my knolwedge using textbooks, peer reviewed articles, blog posts; I have compiled my research into a giant respository, going from fundamentals to advanced topics. I use this work to help me identify research gaps for my PhD, decipher journal articles, keep track of emerging trends in fields such as NLP).
-2. Transparent (I am a big advocate for transparent ML/DL systems to help advance the trustworthy AI initiative. To that end, I try to be transparent about my own life. That is why I included the weaknesses portion on my website to give future collaborators an idea of how I operate on a day to day.)
+2. Transparent (I am a big advocate for transparent ML/DL systems to help advance the trustworthy AI initiative. To that end, I try to be transparent about my own life. That is why I included the weaknesses portion on my website.)
 
 **Weaknesses** 
 1. Taking on too much with too little time (I am ambitious so that trait is sort of a double edged sword! With that being said, I have made a concious effort of understanding how long it takes to produce high quality work, from me. I use that to guide what I can realistically take on vs put off for later).
