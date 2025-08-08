@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_gitHub.pdf"
+  avatar           : "headshot_gitHub.png"
   name             : "Shreeya Sharda"
   pronouns         : # example: "she/her"  
   bio              : "Prospective PhD in CS Student For Fall 2026"
