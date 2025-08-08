@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 title: "Welcome to Shreeya's Academic Website"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Thanks for visiting my website! My goal is to give future employers, advisors, a
 
 About Me
 ======
-I am currently a Master's student at The George Washington University, studying Computer Science. I am part of the Joint BA & MS in Computer Science (CS) program at GW. I took an interdisciplinary approach to my undergrad education by tailoring my undergrad degree to blend coursework in Business and Sustainability in addition to CS. As I pursued my coursework at GW, I simultaneously acquired 4+ years of professional experience in AI/ML: moving from academic research to startups to defense consulting. Along the way, I  engaged in independent projects focused around NLP (emedding, tokenization, LLMs). These experiences have led me to my master's thesis in which I am studying the relationship between types of datasets (synthetic and original) and model architectures (rule-based, deep learning, machine learning). I am evaluating this relationship by comparing the performance of state of the art NLP models (e.g., BERT, RoBERTa, Gemini) using common ML metrics (F1, precision, recall, cross-validation). I seek to understand why the models are failing in prescribing sentiment to certain online reviews, finding patterns in the language of the reviews.  Through this way, I have become skilled in a technical (machine learning, data science, deep learning) and non-technical domain (leadership, team collaboration, interpersonal communication), preparing me well for future opportunities. 
+I am currently a Master's student at The George Washington University, studying Computer Science. I am part of the Joint BA & MS in Computer Science (CS) program at GW. I took an interdisciplinary approach to my undergrad education by tailoring my undergrad degree to blend coursework in Business and Sustainability in addition to CS. As I pursued my coursework at GW, I simultaneously acquired 4+ years of professional experience in AI/ML: moving from academic research to startups to defense consulting. Along the way, I engaged in independent projects focused around NLP (emedding, tokenization, LLMs). These experiences have led me to my master's thesis in which I am studying the relationship between types of datasets (synthetic and original) and model architectures (rule-based, deep learning, machine learning). I am evaluating this relationship by comparing the performance of state of the art NLP models (e.g., BERT, RoBERTa, Gemini) using common ML metrics (F1, precision, recall, cross-validation). I seek to understand why the models are failing in prescribing sentiment to certain online reviews, finding patterns in the language of the reviews.  Through this way, I have become skilled in a technical (machine learning, data science, deep learning) and non-technical domain (leadership, team collaboration, interpersonal communication), preparing me well for future opportunities. 
 
 Goals
 ======
