@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Shreeya's Academic Website"
+title: "Welcome to Shreeya's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Thanks for visiting my website! My goal is to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills.
+Through this Portfolio, My goal is to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills.
 
 
 About Me
