@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Shreeya's Portfolio"
+title: "Shreeya Sharda's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
