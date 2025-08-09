@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Through this Portfolio, My goal is to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills.
+My goal is to give future employers, advisors, and other collaborators a snapshot of my technical and soft skills.
 
 
 About Me
